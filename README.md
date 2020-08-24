@@ -6,6 +6,7 @@ This activity is focused on organizing and analyzing a database of 4,000 Kicksta
 
 * Pivot tables
 * Pivot charts
+* Summary statistics
 
 ## Built with 
 
