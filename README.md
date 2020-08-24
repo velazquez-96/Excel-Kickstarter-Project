@@ -12,3 +12,11 @@ This activity is focused on organizing and analyzing a database of 4,000 Kicksta
 * Excel
 
 ## Outcomes
+
+[Image1.png](Images/Image1.png)
+
+[Image2.png](Images/Image2.png)
+
+[Image3.png](Images/Image3.png)
+
+[Image4.png](Images/Image4.png)
